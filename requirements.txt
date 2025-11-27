@@ -1,9 +1,9 @@
-核心 AI 與環境
+#核心 AI 與環境
 
 google-genai
 python-dotenv
 pillow
 
-前端
+#前端
 
 streamlit
